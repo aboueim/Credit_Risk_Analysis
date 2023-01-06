@@ -17,13 +17,15 @@ Below I added a screenshot of the results for each classifier and a short descri
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/SMOTEOverSampling.png" width="600" height="400" />
 
 
-![This is an image](/UnderSampling.png)
+<img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/UnderSampling.png" width="600" height="400" />
 
 
-![This is an image](/CombinedSampling.png)
+<img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/CombinedSampling.png" width="600" height="400" />
 
 
-![This is an image](/RandomForests.png)
+<img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/RandomForests.png" width="600" height="400" />
 
 
-![This is an image](/EasyEnsemble.png)
+<img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/EasyEnsemble.png" width="600" height="400" />
+
+
