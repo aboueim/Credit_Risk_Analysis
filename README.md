@@ -11,61 +11,61 @@ Below I added a screenshot of the results for each classifier and a short descri
 ### NaiveOverSampling
 - balanced accuracy scores: 0.657
 - precision
-  * High Risk: 
-  * Low Risk: 
-- recall scores: 
-  * High Risk: 
-  * Low Risk: 
+  * High Risk: 0.01
+  * Low Risk: 1.00
+- recall scores
+  * High Risk: 0.60
+  * Low Risk: 0.71
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/NaivOverSampling.png" width="600" height="400" />
 
 ### SMOTEOverSampling
-- balanced accuracy scores
+- balanced accuracy scores: 0.662
 - precision
-  * High Risk: 
-  * Low Risk: 
+  * High Risk: 0.01
+  * Low Risk: 1.00
 - recall scores
-  * High Risk: 
-  * Low Risk: 
+  * High Risk: 0.69
+  * Low Risk: 0.63
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/SMOTEOverSampling.png" width="600" height="400" />
 
 ### UnderSampling
-- balanced accuracy scores
+- balanced accuracy scores: 0.545
 - precision
-  * High Risk: 
-  * Low Risk: 
+  * High Risk: 0.01
+  * Low Risk: 1.00
 - recall scores
-  * High Risk: 
-  * Low Risk: 
+  * High Risk: 0.40
+  * Low Risk: 0.69
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/UnderSampling.png" width="600" height="400" />
 
 ### CombinedSampling
-- balanced accuracy scores
+- balanced accuracy scores: 0.645
 - precision
-  * High Risk: 
-  * Low Risk:   
+  * High Risk: 0.01
+  * Low Risk: 1.00
 - recall scores
-  * High Risk: 
-  * Low Risk: 
+  * High Risk: 0.57
+  * Low Risk: 0.72
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/CombinedSampling.png" width="600" height="400" />
 
 ### RandomForests
-- balanced accuracy scores
+- balanced accuracy scores: 0.789
 - precision
-  * High Risk: 
-  * Low Risk:   
+  * High Risk: 0.03
+  * Low Risk: 1.00
 - recall scores
-  * High Risk: 
-  * Low Risk: 
+  * High Risk: 0.87
+  * Low Risk: 0.70
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/RandomForests.png" width="600" height="400" />
 
 ### EasyEnsemble
-- balanced accuracy scores
+- balanced accuracy scores: 0.932
 - precision
-  * High Risk: 
-  * Low Risk:   
+  * High Risk: 0.09
+  * Low Risk: 1.00
 - recall scores
-  * High Risk: 
-  * Low Risk: 
+  * High Risk: 0.94
+  * Low Risk: 0.92
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/EasyEnsemble.png" width="600" height="400" />
 
 ## Summary
