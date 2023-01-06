@@ -10,7 +10,8 @@ Below I added a screenshot of the results for each classifier and a short descri
 
 ###
 
-![This is an image](Images/NaivOverSampling.png = 100*100)
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+![This is an image](Images/NaivOverSampling.png)
 
 
 ![This is an image](/SMOTEOverSampling.png)
