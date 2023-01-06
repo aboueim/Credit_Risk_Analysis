@@ -10,7 +10,7 @@ Below I added a screenshot of the results for each classifier and a short descri
 
 ###
 
-![This is an image](Images/NaivOverSampling.png| width = 100)
+![This is an image](Images/NaivOverSampling.png | width = 100)
 
 
 ![This is an image](/SMOTEOverSampling.png)
