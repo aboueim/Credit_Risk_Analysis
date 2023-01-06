@@ -14,7 +14,8 @@ Below I added a screenshot of the results for each classifier and a short descri
   * High Risk: 
   * Low Risk: 
 - recall scores: 
-
+  * High Risk: 
+  * Low Risk: 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/NaivOverSampling.png" width="600" height="400" />
 
 ### SMOTEOverSampling
@@ -23,7 +24,8 @@ Below I added a screenshot of the results for each classifier and a short descri
   * High Risk: 
   * Low Risk: 
 - recall scores
-
+  * High Risk: 
+  * Low Risk: 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/SMOTEOverSampling.png" width="600" height="400" />
 
 ### UnderSampling
@@ -32,7 +34,8 @@ Below I added a screenshot of the results for each classifier and a short descri
   * High Risk: 
   * Low Risk: 
 - recall scores
-
+  * High Risk: 
+  * Low Risk: 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/UnderSampling.png" width="600" height="400" />
 
 ### CombinedSampling
@@ -41,7 +44,8 @@ Below I added a screenshot of the results for each classifier and a short descri
   * High Risk: 
   * Low Risk:   
 - recall scores
-
+  * High Risk: 
+  * Low Risk: 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/CombinedSampling.png" width="600" height="400" />
 
 ### RandomForests
@@ -50,7 +54,8 @@ Below I added a screenshot of the results for each classifier and a short descri
   * High Risk: 
   * Low Risk:   
 - recall scores
-
+  * High Risk: 
+  * Low Risk: 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/RandomForests.png" width="600" height="400" />
 
 ### EasyEnsemble
@@ -59,7 +64,8 @@ Below I added a screenshot of the results for each classifier and a short descri
   * High Risk: 
   * Low Risk:   
 - recall scores
-
+  * High Risk: 
+  * Low Risk: 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/EasyEnsemble.png" width="600" height="400" />
 
 ## Summary
