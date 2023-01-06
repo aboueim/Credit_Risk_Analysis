@@ -6,3 +6,23 @@ In this project, I intend to use supervised machine learning techniques to condu
 
 ## Results
 
+Below I added a screenshot of the results for each classifier and a short description.
+
+###
+
+![This is an image](/NaivOverSampling.png)
+
+
+![This is an image](/SMOTEOverSampling.png)
+
+
+![This is an image](/UnderSampling.png)
+
+
+![This is an image](/CombinedSampling.png)
+
+
+![This is an image](/RandomForests.png)
+
+
+![This is an image](/EasyEnsemble.png)
