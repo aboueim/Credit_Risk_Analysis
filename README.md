@@ -8,24 +8,48 @@ In this project, I intend to use supervised machine learning techniques to condu
 
 Below I added a screenshot of the results for each classifier and a short description.
 
-###
-
+### NaiveOverSampling
+- balanced accuracy scores
+- precision
+- recall scores
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/NaivOverSampling.png" width="600" height="400" />
 
+- balanced accuracy scores
+- precision
+- recall scores
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/SMOTEOverSampling.png" width="600" height="400" />
 
+### NaiveOverSampling
+- balanced accuracy scores
+- precision
+- recall scores
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/UnderSampling.png" width="600" height="400" />
 
+### NaiveOverSampling
+- balanced accuracy scores
+- precision
+- recall scores
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/CombinedSampling.png" width="600" height="400" />
 
+### NaiveOverSampling
+- balanced accuracy scores
+- precision
+- recall scores
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/RandomForests.png" width="600" height="400" />
 
+### NaiveOverSampling
+- balanced accuracy scores
+- precision
+- recall scores
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/EasyEnsemble.png" width="600" height="400" />
 
-
+### NaiveOverSampling
+- balanced accuracy scores
+- precision
+- recall scores
