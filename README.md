@@ -11,7 +11,7 @@ Below I added a screenshot of the results for each classifier and a short descri
 ###
 
 
-<img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/NaivOverSampling.png" width="200" height="400" />
+<img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/NaivOverSampling.png" width="400" height="400" />
 
 
 
