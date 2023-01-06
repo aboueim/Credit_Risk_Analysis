@@ -6,17 +6,21 @@ In this project, I intend to use supervised machine learning techniques to condu
 
 ## Results
 
-Below I added a screenshot of the results for each classifier and a short description.
+Below I added a screenshot of the results for each classifier and a short description of their performance.
 
 ### NaiveOverSampling
-- balanced accuracy scores
+- balanced accuracy scores: 0.657
 - precision
-- recall scores
+  * High Risk: 
+  * Low Risk: 
+- recall scores: 
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/NaivOverSampling.png" width="600" height="400" />
 
 - balanced accuracy scores
 - precision
+  * High Risk: 
+  * Low Risk: 
 - recall scores
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/SMOTEOverSampling.png" width="600" height="400" />
@@ -24,6 +28,8 @@ Below I added a screenshot of the results for each classifier and a short descri
 ### NaiveOverSampling
 - balanced accuracy scores
 - precision
+  * High Risk: 
+  * Low Risk: 
 - recall scores
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/UnderSampling.png" width="600" height="400" />
@@ -31,6 +37,8 @@ Below I added a screenshot of the results for each classifier and a short descri
 ### NaiveOverSampling
 - balanced accuracy scores
 - precision
+  * High Risk: 
+  * Low Risk:   
 - recall scores
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/CombinedSampling.png" width="600" height="400" />
@@ -38,6 +46,8 @@ Below I added a screenshot of the results for each classifier and a short descri
 ### NaiveOverSampling
 - balanced accuracy scores
 - precision
+  * High Risk: 
+  * Low Risk:   
 - recall scores
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/RandomForests.png" width="600" height="400" />
@@ -45,6 +55,8 @@ Below I added a screenshot of the results for each classifier and a short descri
 ### NaiveOverSampling
 - balanced accuracy scores
 - precision
+  * High Risk: 
+  * Low Risk:   
 - recall scores
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/EasyEnsemble.png" width="600" height="400" />
@@ -52,4 +64,6 @@ Below I added a screenshot of the results for each classifier and a short descri
 ### NaiveOverSampling
 - balanced accuracy scores
 - precision
+  * High Risk: 
+  * Low Risk:   
 - recall scores
