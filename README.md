@@ -69,3 +69,5 @@ Below I added a screenshot of the results for each classifier and a short descri
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/EasyEnsemble.png" width="600" height="400" />
 
 ## Summary
+
+Overall, from the above results, it can be realized that the logistic regression classifier performs moderately, in terms of balanced accuracy, under any of the four resampling techniques used (from 0.545 to 0.662). Besides, this classifier lacks the ability to precisely detect high risk loaners (precision = 0.01 in all four resamplings types), while performing perfectly in precisely classifying low risk loaners (precision = 1.00 in all four resampling types). In terms of sensitivity of the model, it can be seen that SMOTEOverSampling provides the highest recall rate for High Risk loaners (recall = 0.69), whereas CombinedResampling gives the highest recall rate for the Low Risk loaners (recall = 0.72).
