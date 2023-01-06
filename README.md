@@ -17,6 +17,7 @@ Below I added a screenshot of the results for each classifier and a short descri
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/NaivOverSampling.png" width="600" height="400" />
 
+### SMOTEOverSampling
 - balanced accuracy scores
 - precision
   * High Risk: 
@@ -25,7 +26,7 @@ Below I added a screenshot of the results for each classifier and a short descri
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/SMOTEOverSampling.png" width="600" height="400" />
 
-### NaiveOverSampling
+### UnderSampling
 - balanced accuracy scores
 - precision
   * High Risk: 
@@ -34,7 +35,7 @@ Below I added a screenshot of the results for each classifier and a short descri
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/UnderSampling.png" width="600" height="400" />
 
-### NaiveOverSampling
+### CombinedSampling
 - balanced accuracy scores
 - precision
   * High Risk: 
@@ -43,7 +44,7 @@ Below I added a screenshot of the results for each classifier and a short descri
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/CombinedSampling.png" width="600" height="400" />
 
-### NaiveOverSampling
+### RandomForests
 - balanced accuracy scores
 - precision
   * High Risk: 
@@ -52,7 +53,7 @@ Below I added a screenshot of the results for each classifier and a short descri
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/RandomForests.png" width="600" height="400" />
 
-### NaiveOverSampling
+### EasyEnsemble
 - balanced accuracy scores
 - precision
   * High Risk: 
@@ -61,9 +62,4 @@ Below I added a screenshot of the results for each classifier and a short descri
 
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/EasyEnsemble.png" width="600" height="400" />
 
-### NaiveOverSampling
-- balanced accuracy scores
-- precision
-  * High Risk: 
-  * Low Risk:   
-- recall scores
+## Summary
