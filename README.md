@@ -14,8 +14,7 @@ Below I added a screenshot of the results for each classifier and a short descri
 <img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/NaivOverSampling.png" width="600" height="400" />
 
 
-
-![This is an image](/SMOTEOverSampling.png)
+<img src="https://github.com/aboueim/Credit_Risk_Analysis/blob/main/Images/SMOTEOverSampling.png" width="600" height="400" />
 
 
 ![This is an image](/UnderSampling.png)
